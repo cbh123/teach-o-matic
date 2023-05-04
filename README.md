@@ -1,7 +1,7 @@
 # Teach-O-Matic
 Teach-O-Matic creates instructional "how to videos" on any topic, using LangChain, Replicate, and OpenAI.
 
-Learn more by checking out the [![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cbh123/teach-o-matic/blob/main/Teach_O_Matic.ipynb)
+[![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cbh123/teach-o-matic/blob/main/Teach_O_Matic.ipynb)
 
 # Links
 - [LangChain](https://python.langchain.com/en/latest/), for chaining together our model requests.

@@ -1,3 +1,5 @@
+<img width="1170" alt="Screenshot 2023-05-04 at 5 23 55 PM" src="https://user-images.githubusercontent.com/14149230/236333210-36ad530d-af79-402c-8297-2e4eaf8b678e.png">
+
 # Teach-O-Matic
 Teach-O-Matic creates instructional "how to videos" on any topic, using LangChain, Replicate, and OpenAI.
 
